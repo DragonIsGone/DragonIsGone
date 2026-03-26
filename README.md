@@ -4,7 +4,6 @@
       <td>
         <img
           src="https://lanyard.ohitstom.vercel.app/api/779613468113502238?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
-          alt="Tom's Lanyard Status"
         />
       </td>
       <td>
@@ -14,7 +13,30 @@
         />
       </td>
     </tr>
+    <tr>
+      <td colspan=2>
+        <picture>
+          <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake-dark.svg"
+          >
+          <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake.svg"
+          >
+          <img 
+            alt="github contribution grid snake animation" 
+            src="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake.svg"
+            style="background-color: transparent !important;" 
+          >
+  </picture>
+      </td>
+    </tr>
   </table>
+
+
+        
+
 
   <table>
     <tr>
@@ -28,8 +50,5 @@
 </p>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">
           
 
