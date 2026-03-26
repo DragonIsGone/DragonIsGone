@@ -7,10 +7,11 @@
         />
       </td>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
-          alt="Stats"
-        />
+        <p align="center">
+          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&redirect=true">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&cover_image=true&theme=novatorem&show_offline=false&background_color=transperant&interchange=true&profanity=false&bar_color_cover=true">
+          </a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -31,24 +32,17 @@
           >
   </picture>
       </td>
-    </tr>
   </table>
-
-
-        
-
 
   <table>
     <tr>
       <td>
-        <p align="center">
-  <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&cover_image=true&theme=default&show_offline=false&background_color=transperant&interchange=true&profanity=false&bar_color_cover=true">
-  </a>
-</p>
-</p>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+          alt="Stats"
+        />
       </td>
     </tr>
+  </table>
           
 
