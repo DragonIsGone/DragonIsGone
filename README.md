@@ -50,10 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 29 March 2026
+From: 25 March 2026 - To: 30 March 2026
 
-Rust    59 mins               >>>>>>>>>>>>>>>>>>>>>>>>-   96.85 %
-Other   1 min                 >------------------------   03.15 %
+Rust         1 hr 39 mins          >>>>>>>>>>>>>>>>>--------   67.77 %
+JavaScript   18 mins               >>>----------------------   12.32 %
+TypeScript   12 mins               >>-----------------------   08.60 %
+HTML         9 mins                >>-----------------------   06.38 %
+Markdown     4 mins                >------------------------   03.10 %
 ```
 
 <!--END_SECTION:waka-->
