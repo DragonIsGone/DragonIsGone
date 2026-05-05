@@ -38,7 +38,7 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats-rbi6.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
+          src="https://github-readme-stats-fast.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
           alt="Stats"
         />
       </td>
