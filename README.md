@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 24 May 2026
+From: 25 March 2026 - To: 25 May 2026
 
 Rust           5 hrs 28 mins         >>>>>>>>>>>>>>>>>>-------   71.06 %
 Lua            43 mins               >>-----------------------   09.46 %
