@@ -7,11 +7,10 @@
         />
       </td>
       <td>
-        <p align="center">
-          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&redirect=true">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juxftsaxvhiqrjerjs7kmshe24&cover_image=true&theme=novatorem&show_offline=false&background_color=transperant&interchange=true&profanity=false&bar_color_cover=true">
-          </a>
-        </p>
+       <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
+          alt="Stats"
+        />
       </td>
     </tr>
     <tr>
@@ -35,14 +34,6 @@
   </table>
 
   <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
-          alt="Stats"
-        />
-      </td>
-    </tr>
 <tr>
       <td>
         <div align="center">
