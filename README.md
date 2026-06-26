@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 23 June 2026
+From: 25 March 2026 - To: 24 June 2026
 
 JavaScript     5 hrs 32 mins         >>>>>>>>-----------------   30.11 %
 Rust           5 hrs 28 mins         >>>>>>>------------------   29.71 %
