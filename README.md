@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 25 August 2026
+From: 25 March 2026 - To: 26 August 2026
 
 JavaScript     12 hrs 7 mins         >>>>>>>>>>>--------------   45.34 %
 HTML           6 hrs 3 mins          >>>>>>-------------------   22.67 %
