@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 03 September 2026
+From: 25 March 2026 - To: 04 September 2026
 
-JavaScript     12 hrs 7 mins         >>>>>>>>>>>--------------   45.34 %
-HTML           6 hrs 3 mins          >>>>>>-------------------   22.67 %
-Rust           5 hrs 28 mins         >>>>>--------------------   20.47 %
-Lua            56 mins               >------------------------   03.55 %
-TOML           31 mins               -------------------------   01.99 %
+JavaScript     12 hrs 7 mins         >>>>>>>>>>---------------   41.74 %
+Rust           6 hrs 39 mins         >>>>>>-------------------   22.93 %
+HTML           6 hrs 3 mins          >>>>>--------------------   20.87 %
+Lua            1 hr 35 mins          >------------------------   05.46 %
+Markdown       43 mins               >------------------------   02.50 %
 ```
 
 <!--END_SECTION:waka-->
